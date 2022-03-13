@@ -1,0 +1,4 @@
+Scripts\activate  #打开虚拟环境
+
+
+deactivate   #退出虚拟环境
